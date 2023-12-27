@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sekonso/Huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://sekonso.github.io/Huddle-landing-page)
+- Solution URL: [solution](https://github.com/Sekonso/Huddle-landing-page)
+- Live Site URL: [live page](https://sekonso.github.io/Huddle-landing-page)
 
 ## My process
 
